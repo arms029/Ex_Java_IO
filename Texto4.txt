@@ -1,0 +1,4 @@
+Tensores são entidades geométricas introduzidas na matemática e na física para generalizar a noção de escalares, vetores e matrizes. Assim como tais
+entidades, um tensor é uma forma de representação associada a um conjunto de operações tais como a soma e o produto. Um exemplo mais sofisticado 
+é o tensor tensão de Cauchy T, que toma uma direção v como entrada e produz a tensão T(v) sobre a superfície normal a v como saída, expressando
+assim uma relação entre estes dois vetores, mostrada na figura (direita).
